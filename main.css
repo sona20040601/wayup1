@@ -1,0 +1,31 @@
+h1{
+	color: red;
+}
+#block {
+	background: blue;
+	margin-right: 1200px;
+	padding-bottom: 12px;
+	padding-top: 12px;
+	color: #fff;
+	margin-bottom: 100px;
+}
+ .new span{
+	color: red;
+}
+h2{
+	background: green;
+	color: #fff;
+}
+.wrapper{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	padding-left: 30px;
+}
+#new{ 
+	border: 2px solid #000;
+	margin-right: 10px;
+	padding-right: 600px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	font-size: 25px;
+}
